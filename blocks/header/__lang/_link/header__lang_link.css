@@ -1,8 +1,5 @@
 .header__lang_link {
+  margin-left: 18px;
   text-decoration: none;
   color: #fff;
-}
-
-.header__lang_link:first-child {
-  margin-right: 18px;
 }
