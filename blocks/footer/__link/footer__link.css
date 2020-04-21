@@ -1,11 +1,11 @@
 .footer__link {
   margin: 0;
+  margin-right: 18px;
   font-size: 16px;
   line-height: 1.125;
   font-weight: 400;
   color: #fff;
   text-decoration: none;
-  margin-right: 18px;
   transition: all 200ms ease-in-out;
 }
 

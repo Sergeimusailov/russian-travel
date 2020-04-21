@@ -1,11 +1,11 @@
 .cover__background {
-  text-decoration: none;
-  color: #fff;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   width: 100%;
+  text-decoration: none;
+  color: #fff;
   background-image: url(../../../images/cover-trains.jpg);
   background-size: cover;
 }

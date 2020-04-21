@@ -8,9 +8,9 @@
 @import url(./__link/places__link.css);
 
 .places {
-  padding-top: 92px;
-  max-width: 984px;
   margin: 0 auto;
+  margin-top: 92px;
+  max-width: 984px;
 }
 
 @media screen and (max-width: 1024px) {
@@ -21,13 +21,14 @@
 
 @media screen and (max-width: 768px) {
   .places {
-    padding-top: 88px;
+    margin-top: 88px;
     max-width: calc(100% - 48px);
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    max-width: calc(100% - 32px);
+    margin-top: 66px;
+    max-width: 100%;
   }
 }

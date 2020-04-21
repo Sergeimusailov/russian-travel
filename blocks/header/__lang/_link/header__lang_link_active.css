@@ -1,6 +1,6 @@
 .header__lang_link_active {
-  color: #fff;
-  text-decoration: none;
   border-bottom-style: solid;
   border-bottom-width: 1px;
+  color: #fff;
+  text-decoration: none;
 }
