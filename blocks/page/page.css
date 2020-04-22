@@ -4,23 +4,6 @@
   -webkit-font-smoothing: antialiased;
   color: #ffffff;
   max-width: 1280px;
+  min-width: 320px;
   margin: 0 auto;
 }
-
-/* @media screen and (max-width: 1024px) {
-  .page {
-    margin: 0 48px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .page {
-    margin: 0 24px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .page {
-    margin: 0 16px;
-  }
-} */
